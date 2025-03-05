@@ -17,7 +17,7 @@ nano data.txt
 ## Install Module yang di butuhkan
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 ## Untuk menjalankan bot ketik " node main.js "
 ```bash
