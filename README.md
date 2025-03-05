@@ -6,8 +6,8 @@
 
 ## Instalation
 ```bash
-git clone 
-cd Hanafuda
+git clone https://github.com/akilower/Tea-fi-bott.git
+cd Tea-fi-bott
 ```
 ## masukkan PRIVATE KEYS anda kedalam data.txt
 
@@ -28,4 +28,5 @@ node main.js
 **Create data.txt And Input Yout Private Key Dan**
 **Pastikan Semua Step Nya Benar**
 
+## Pilih Angka No. 2 untuk Refferall
 
